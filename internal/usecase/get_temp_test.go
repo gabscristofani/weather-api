@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/fabiowgermano/weather-api/internal/adapters/api"
-	"github.com/fabiowgermano/weather-api/internal/entity"
+	"github.com/gabscristofani/weather-api/internal/adapters/api"
+	"github.com/gabscristofani/weather-api/internal/entity"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )
